@@ -1,0 +1,5 @@
+﻿totally_not_my_privateKeys.db
+*.exe
+coverage.out
+coverage.html
+test_results.txt
